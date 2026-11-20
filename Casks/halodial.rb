@@ -1,6 +1,6 @@
 cask "halodial" do
-  version "1.0.3"
-  sha256 "95311117f459195b25a72c99df5b0ec7d2210f831b8b1f81b05ee81c7ac9e26c"
+  version "1.1.0"
+  sha256 "43932a8653d78461afb54a181c23c12d70726c1007133834d29d1d1ca07723e5"
 
   url "https://github.com/Halodial/releases/releases/download/v#{version}/Halodial.dmg"
   name "Halodial"
